@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Mohammad Affan, a fourth-year student of Computer Science at SZABIST Karachi.
-- 👀 I'm interested in the world of programming, technology, and software development.
-- 🌱 I'm currently learning and exploring various programming languages and tools.
-- 💞️ I'm looking to collaborate on interesting coding projects and learning opportunities.
-- 📫 You can reach me at bcsbs2112270@szabist.pk
-
+- 👋 Hi, I'm **Mohammad Affan**, a Full Stack Developer specializing in Agentic AI. 
+- 👀 I'm passionate about building intelligent applications from the ground up. My expertise spans the **MERN stack** (MongoDB, Express.js, React, Node.js) , mobile development with **Flutter**, and building intelligent, autonomous agents .
+- 🌱 I'm currently focused on **AI Orchestration**. I build complex, stateful LLM workflows with **LangGraph** and orchestrate multi-agent teams with **CrewAI**.
+- 💞️ I'm looking to collaborate on projects involving **AI-driven applications**, **multi-agent systems**, or **full-stack web and mobile development**.
+- 📫 You can reach me at **affanashfaq66@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/MohammadAffan12) .
